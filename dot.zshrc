@@ -6,7 +6,7 @@ export PATH=$HOME/.cargo/bin:$PATH
 export VIRTUALENVWRAPPER_PYTHON="/usr/local/bin/python3"
 
 # Path to your oh-my-zsh installation.
-export ZSH=/Users/yudixue/.oh-my-zsh
+export ZSH=~/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
