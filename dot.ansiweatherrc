@@ -1,0 +1,6 @@
+location:Vancouver,CA
+units:metric
+show_daylight:false
+fetch_cmd:wget -qO-
+symbols:true
+api:*******
