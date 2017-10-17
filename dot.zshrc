@@ -93,3 +93,8 @@ export PATH="/usr/local/opt/freetds@0.91/bin:$PATH"
 
 # direnv
 eval "$(direnv hook zsh)"
+
+# mono
+export MONO_GAC_PREFIX="/usr/local"
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
